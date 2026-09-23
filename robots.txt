@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ziyoumaojc.com/sitemap.xml
